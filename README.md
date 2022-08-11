@@ -2,26 +2,42 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
-## Development server
+## Preview:
+<p align="center">
+  <img alt="Layout da aplicação" width="70%" src="https://github.com/frankmagalhaes/pokedex-angular/blob/master/src/assets/home.jpg" />
+</p>
+<p align="center">
+  <img alt="Layout da aplicação" width="70%" src="https://github.com/frankmagalhaes/pokedex-angular/blob/master/src/assets/pokedex.jpg" />
+</p>
+<p align="center">
+  <img alt="Layout da aplicação" width="70%" src="https://github.com/frankmagalhaes/pokedex-angular/blob/master/src/assets/search.jpg" />
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Sobre o Projeto
 
-## Code scaffolding
+O projeto consiste em consultar uma API pokemon e criar uma pokedex para filtragem de pokemons  e acesso dos atributos .
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para este desafio, iremos utilizar a API do PokeApi https://pokeapi.co/docs/v2.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Como instalar
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Baixe ou clone este repositório usando `git clone https://github.com/frankmagalhaes/pokedex-angular.git`;
+- Dentro do diretório, instale as dependências usando `npm install`.
 
-## Running end-to-end tests
+## Como executar
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Execute `ng serve` para executar a versão de desenvolvimento. Depois acesse `http://localhost:4200/`.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Notas
+
+
+
+
+
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
